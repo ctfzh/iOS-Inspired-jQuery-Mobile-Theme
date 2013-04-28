@@ -1,6 +1,8 @@
 iOS-Inspired Theme for jQuery Mobile
 ======
 
+IOS Theme 插件
+
 - Supports jQuery Mobile 1.2.0
 
 Distributed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License).
